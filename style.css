@@ -51,7 +51,7 @@ ol.linenums li {
 
 code {
   padding: 2px 4px;
-  color: #ECA;
+  color: #ECA !important;
   background-color: #272729;
   border: 1px solid #111118;
 }
