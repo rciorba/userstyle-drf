@@ -49,7 +49,7 @@ ol.linenums li {
   text-shadow: 0 1px 0 #fff;
 }
 
-code {
+.toclink code, code {
   padding: 2px 4px;
   color: #ECA !important;
   background-color: #272729;
